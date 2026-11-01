@@ -1,0 +1,34 @@
+[
+  {
+    "id": "JBV",
+    "n": 6,
+    "theory": 2,
+    "emp": 4,
+    "pointer": 1,
+    "citation": 0
+  },
+  {
+    "id": "JAP",
+    "n": 55,
+    "theory": 16,
+    "emp": 39,
+    "pointer": 2,
+    "citation": 4
+  },
+  {
+    "id": "PP",
+    "n": 19,
+    "theory": 10,
+    "emp": 9,
+    "pointer": 0,
+    "citation": 1
+  },
+  {
+    "id": "SMJ",
+    "n": 34,
+    "theory": 12,
+    "emp": 22,
+    "pointer": 0,
+    "citation": 2
+  }
+]

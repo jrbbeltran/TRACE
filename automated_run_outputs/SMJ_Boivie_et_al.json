@@ -1,0 +1,425 @@
+{
+  "file_name": "Strategic Management Journal - 2025 - Boivie - Do boards learn to hire  The effect of board experience with CEO replacement (1).pdf",
+  "method": "Deterministic heuristic extractor, no external services",
+  "warnings": [
+    "Not validated for accuracy. Not an AI review, statistical check, or publication recommendation.",
+    "Theoretical/empirical classification is approximate.",
+    "A pointer to a table is not an independent claim-evidence validation.",
+    "No external bibliographic existence checking is implemented in this proof of concept."
+  ],
+  "claims": [
+    {
+      "type": "empirical",
+      "original_excerpt": "Using S&P 1500 firms from 1999 to 2020, we found that boards' prior experiences with hir- ing CEOs do not improve their ability to choose a higher-performing CEO; rather, their prior CEO selec- tion experience has a small but consistent negative effect.",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "At the same time, we found little evidence that the domain specificity of prior CEO succession experi- ence impacts the performance of subsequently hired CEOs.",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Managerial Summary: Our findings suggest that boards with more experience hiring new CEOs tend to select CEOs who exhibit slightly lower performance.",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We argue that, due to superstitious learning, directors' experiences with prior CEO successions will be negatively associated with the performance of a newly hired CEO.",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "While supplementary analyses confirm the previous finding that boards may learn to fire, we find no evidence that boards' prior succession experiences improve hiring and may even worsen firm outcomes.",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our findings suggest that board experi- ence with CEO replacement influences succession outcomes, but that this influence may be negative.",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Indeed, we find consistent support for the negative influence of board experience on the performance of the CEOs they hire.",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our paper increases our understanding of board effectiveness in the CEO succession process. 2 | THEORY AND HYPOTHESES 2.1 | Director experience with CEO replacement The board of directors is one of the primary corporate governance mechanisms for combating the agency problem (Dalton et al., 2007; Fama & Jensen, 1983).",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [
+        "Dalton et al., 2007; Fama & Jensen, 1983"
+      ],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "We thus suggest that directors with more experience selecting new CEOs may not become appreciably better at selecting future CEOs and hypothesize as follows: Hypothesis 1.",
+      "source": {
+        "page": 6,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Director CEO hiring experience is negatively related to the perfor- mance of the selected CEO. 2.3 | The role of domain-specific experience Director learning involves the transfer of directors' experience and knowledge from other firms to their experience at the focal firm.",
+      "source": {
+        "page": 6,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We theorize that when directors' prior hiring experience is more closely related to the focal decision, this domain-specificity may change the amount of superstitious learning that occurs.",
+      "source": {
+        "page": 7,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Thus, we predict the following: Hypothesis 2a.",
+      "source": {
+        "page": 8,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "However, when running our analyses to test our hypotheses, our models predict CEO performance using accu- mulated experience and other variables in the year in which the CEO was hired. 3.2 | Dependent variables To measure CEO performance, we use Hambrick and Quigley's (2014) CiC performance mea- sure as our proxy for the incoming CEO's performance and, thus, the board's capability for CEO selection.",
+      "source": {
+        "page": 9,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "We used the board's cumulative experience with any CEO hiring decision (averaged across directors) to test our main effect Hypothesis H1.",
+      "source": {
+        "page": 10,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "For Hypotheses H2a and H2b, we proposed that boards engage in superstitious learning, and that this learning would be reduced when their prior experience is context-specific to the current CEO selection.",
+      "source": {
+        "page": 10,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We propose that directors on boards that are highly distinctive (or undistinctive) in their industry will have more relevant experience on similarly distinctive boards.",
+      "source": {
+        "page": 10,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We suggested that a board's experience with hiring is negatively related to the performance of the selected CEO.",
+      "source": {
+        "page": 11,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "We find that on boards, higher average experience with involuntary turnover leads to lower per- formance (b = −2.41, p = .00), and more average experience with hiring following a voluntary departure does not show an effect on CEO performance (b = −0.57, p = .27).",
+      "source": {
+        "page": 13,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "In Models 3 and 4, we do not find evidence that relevant experience improves outcomes, and thus we do not find support for Hypothesis H2a.",
+      "source": {
+        "page": 13,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "This finding, however, which runs counter to Hypothesis H2a, should be interpreted with caution.",
+      "source": {
+        "page": 13,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We find BOIVIE ET AL. 2479 10970266, 2025, 10, Downloaded from https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.3725, Wiley Online Library on [01/11/2026].",
+      "source": {
+        "page": 13,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "We do not have a strong hypothesis about why this effect is different from our other results, but it suggests that our mea- sures are capturing meaningful variance.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Regarding the CEO ability measure, we find either no effect of prior experience on future CEO ability or a neg- ative effect depending on the particular specification of CEO performance used to calculate the ability score.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Furthermore, in untabulated results, we found that higher board experience tended to lead to shorter CEO tenures in a Cox proportional hazard model and a higher likeli- hood of CEO departure in a logit regression.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "To examine these ideas, we tested two hypotheses.",
+      "source": {
+        "page": 15,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Consistent with the superstitious learning perspective, we found support for our claim that boards' experience with CEO succession is neg- atively associated with the performance of the CEO hired.",
+      "source": {
+        "page": 15,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Based on our exploration of the research question above, we conclude that our results are relatively consistent with the superstitious learning perspective, as we found a small but consis- tent negative link between board experience and the performance of the CEO selected.",
+      "source": {
+        "page": 15,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our results suggest that boards with more experience with prior CEO succession tend to select lower-performing CEOs.",
+      "source": {
+        "page": 17,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Further, in supplemental analyses, we found that the CEOs whom boards select have shorter tenures or who have a lower implied ability (Ellis et al., 2021).",
+      "source": {
+        "page": 17,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [
+        "Ellis et al., 2021"
+      ],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our findings suggest that more experience with CEO succession leads to the selection of lower-performing CEOs.",
+      "source": {
+        "page": 17,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our findings suggest that board experience with CEO replacement is associated with succession outcomes but that this association is negative.",
+      "source": {
+        "page": 20,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "First, we find consistent negative effects on CEO perfor- mance.",
+      "source": {
+        "page": 20,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "When using either of these measures, we find either no effect of prior experience on future CEO performance or a negative effect, depending on the particular specification of CEO performance.",
+      "source": {
+        "page": 20,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our results suggest that CEO selection is extremely difficult and that directors appear to be trying to leverage their experience.",
+      "source": {
+        "page": 20,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    }
+  ],
+  "reference_like_spans": []
+}

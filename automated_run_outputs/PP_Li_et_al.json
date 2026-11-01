@@ -1,0 +1,243 @@
+{
+  "file_name": "Personnel Psychology - 2024 - Li - Voluntary Turnover Rate Fluctuations  Human Resource Practices  and Innovation  A.pdf",
+  "method": "Deterministic heuristic extractor, no external services",
+  "warnings": [
+    "Not validated for accuracy. Not an AI review, statistical check, or publication recommendation.",
+    "Theoretical/empirical classification is approximate.",
+    "A pointer to a table is not an independent claim-evidence validation.",
+    "No external bibliographic existence checking is implemented in this proof of concept."
+  ],
+  "claims": [
+    {
+      "type": "theoretical",
+      "original_excerpt": "We propose a U-shape threshold model, where the relationship between voluntary turnover rate fluctuations and innovation takes a negative form when voluntary turnover rate fluctuations are within the normal range for an organization, and a positive form when voluntary turnover rate fluctuations surpass a critical threshold reflecting far-from-equilibrium conditions.",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Specifically, we argue that increased reliance on interaction-facilitating HR practices (employee participation and group-based pay) lowers the threshold, while increased reliance on interaction-inhibiting HR practices (individual-based pay) raises the threshold.",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "With firm-fixed effects modeling, we found general support for our hypotheses using a large-scale, multi-level, longitudinal dataset from Statistics Canada (7110 workplace-year observations from 1980 workplaces).",
+      "source": {
+        "page": 1,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Thus, we argue that increased reliance on interaction-facilitating HR practices (employee participation and group-based pay) lowers the threshold, while increased reliance on interaction-inhibiting HR practices (individual-based pay) raises the threshold.",
+      "source": {
+        "page": 2,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Though supported by individual KSAOs (Subramaniam and Youndt 2005), innovations in goods, services, and their pro- duction methods are irreducible because they are fundamentally shaped by agent connectivity in the system and the resultant complex collective interaction patterns (Colbert 2004; Dooley 2004).",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "This theoretical prediction is widely supported in the existing turnover literature, which suggests that the voluntary turnover rate reflects the aggregate loss of KSAOs (Park and Shaw 2013; Shaw et al. 2005; Shaw, Gupta, and Delery 2005) that are essential for innovation (Amabile 1988, 1996).",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [
+        "Amabile 1988, 1996"
+      ],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Notably, our study focuses on organizational innovation encompassing both product and process innovation because our CAS framework does not generate different predictions for product and process innovation.3 Hypothesis 1.",
+      "source": {
+        "page": 4,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Specifically, we propose that with enhanced collective interac- tions, the critical threshold for voluntary turnover rate fluctua- tions to begin yielding innovation benefits likely arrives earlier.",
+      "source": {
+        "page": 4,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "The intraclass correlation coefficients (ICCs) supported the aggregation: ICC (1) = 0.21 and ICC (2) = 0.55.",
+      "source": {
+        "page": 6,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Therefore, we found support for Hypothesis 1. 109 of 121 17446570, 2025, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/peps.12661, Wiley Online Library on [01/11/2026].",
+      "source": {
+        "page": 7,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Therefore, we found support for Hypothesis 2.",
+      "source": {
+        "page": 11,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "The threshold occurred at −0.10, which is close to the usual voluntary turnover rate.13 Therefore, we found support for Hypothesis 3.",
+      "source": {
+        "page": 11,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Further, we found that the threshold was shifted by HR practices such that increased reliance on employee participation experience and group-based pay policy lowered the threshold, while increased reliance on individual-based pay experience raised the threshold. 5.1 Theoretical and Practical Implications Our study provides several theoretical implications.",
+      "source": {
+        "page": 11,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "We found that HR practices that benefit collective interactions (e.g., increased employee participation experience, increased group-based pay policy, and decreased individual-based pay experience) allow the positive effect of voluntary turnover rate fluctuations on innovation to surface earlier, turning higher- than-normal voluntary turnover rates from a liability to an asset.",
+      "source": {
+        "page": 13,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Based on CAS framework, we theorize structural renewal to be a proximal process leading to the distal outcomes of product and process innovation.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Supporting our theorizing, we found a U-shape relationship between within-organization voluntary turnover rate fluctua- tions and organizational innovation.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Furthermore, we found HR practices influencing collective interactions among employees (e.g., employee participation, group-based pay, and individual- based pay) could shape the critical threshold at which voluntary turnover rate fluctuations began to positively affect innovation.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "Based on our CAS framework, we theorize structural renewal as a proximal process that likely facilitates product and process innovation. 3In our supplemental analyses, we examined product and process innovation as separate outcomes.",
+      "source": {
+        "page": 14,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "We found that innovation was positively related to workplace financial performance in the following year (p = 0.029). 15To account for the possibility that voluntary turnover may influence human capital quality and thus innovation, we ran a supplemen- tal analysis that controlled for organizational tenure and education aggregated from surveyed employees to account for human capital quality (Nyberg et al. 2014).",
+      "source": {
+        "page": 15,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    }
+  ],
+  "reference_like_spans": []
+}

@@ -1,0 +1,87 @@
+{
+  "file_name": "1-s2.0-S0883902625000655-main.pdf",
+  "method": "Deterministic heuristic extractor, no external services",
+  "warnings": [
+    "Not validated for accuracy. Not an AI review, statistical check, or publication recommendation.",
+    "Theoretical/empirical classification is approximate.",
+    "A pointer to a table is not an independent claim-evidence validation.",
+    "No external bibliographic existence checking is implemented in this proof of concept."
+  ],
+  "claims": [
+    {
+      "type": "theoretical",
+      "original_excerpt": "Rather, we argue that adding strangers, while potentially beneficial through enhanced diversity and non-redundant networks, simultaneously introduces infor­ mational risks—particularly concerning behavioral compatibility, trustworthiness, and team cohesion—that can offset potential skill- based advantages.",
+      "source": {
+        "page": 3,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Conceptual model and summary of hypotheses of the “Stranger Puzzle” Note: Squares denote measured concepts. 6 In results not presented here to conserve space (but available upon request), we statistically compared each of these relational categories. 7 If we drop observations that answered affirmatively to the last option, results are substantively and statistically consistent with (indeed, larger in magnitude than) those presented below.",
+      "source": {
+        "page": 6,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Table 3 Summary of hypotheses, outcome measures, and statistical methods.",
+      "source": {
+        "page": 10,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [
+        "Table 3"
+      ],
+      "citations_mentioned": [],
+      "evidence_status": "Explicit pointer identified; not verified"
+    },
+    {
+      "type": "theoretical",
+      "original_excerpt": "advantage of diverse ties Burt, 2004; Ruef, 2002; Aldrich and Kim, 2007), we found empirical evidence that founding teams including strangers attract more backers.",
+      "source": {
+        "page": 17,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Contrary to the often-optimistic view that team diversity writ large and novel resources naturally lead to better outcomes, we find systematic empirical evidence that founding teams with strangers encounter significant problems related to internal team coordination, trust, and alignment — core operational challenges underscored in the original liability-of-newness thesis.",
+      "source": {
+        "page": 19,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "For investors and venture accelerators, our findings suggest that assessing founding teams should prioritize relational compatibility and prior collaboration history—not just network size or novelty.",
+      "source": {
+        "page": 21,
+        "section": "PDF page",
+        "paragraph": null
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    }
+  ],
+  "reference_like_spans": []
+}

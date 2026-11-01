@@ -1,0 +1,81 @@
+{
+  "file_name": "example_quantitative.docx",
+  "method": "Deterministic heuristic extractor, no external services",
+  "warnings": [
+    "Not validated for accuracy. Not an AI review, statistical check, or publication recommendation.",
+    "Theoretical/empirical classification is approximate.",
+    "A pointer to a table is not an independent claim-evidence validation.",
+    "No external bibliographic existence checking is implemented in this proof of concept."
+  ],
+  "claims": [
+    {
+      "type": "theoretical",
+      "original_excerpt": "We argue that supportive supervision is associated with greater organizational commitment (Smith & Jones, 2022).",
+      "source": {
+        "page": null,
+        "section": "Theory and hypotheses",
+        "paragraph": 4
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [
+        "Smith & Jones, 2022"
+      ],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Hypothesis 1: Supportive supervision is positively related to organizational commitment.",
+      "source": {
+        "page": null,
+        "section": "Theory and hypotheses",
+        "paragraph": 5
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Hypothesis 2: Organizational commitment is positively related to task performance.",
+      "source": {
+        "page": null,
+        "section": "Theory and hypotheses",
+        "paragraph": 6
+      },
+      "explicit_table_figure_pointers": [],
+      "citations_mentioned": [],
+      "evidence_status": "Support not automatically located"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Our results show a positive relationship for Hypothesis 1 (see Table 1).",
+      "source": {
+        "page": null,
+        "section": "Results",
+        "paragraph": 10
+      },
+      "explicit_table_figure_pointers": [
+        "Table 1"
+      ],
+      "citations_mentioned": [],
+      "evidence_status": "Explicit pointer identified; not verified"
+    },
+    {
+      "type": "empirical",
+      "original_excerpt": "Hypothesis 2 was not supported, as shown in Table 2.",
+      "source": {
+        "page": null,
+        "section": "Results",
+        "paragraph": 11
+      },
+      "explicit_table_figure_pointers": [
+        "Table 2"
+      ],
+      "citations_mentioned": [],
+      "evidence_status": "Explicit pointer identified; not verified"
+    }
+  ],
+  "reference_like_spans": [
+    "Smith, A., & Jones, B. (2022). A fictional paper that does not exist. Fictional Journal, 1, 1–2."
+  ]
+}
